@@ -7,7 +7,7 @@
     "type": "git",
     "url": "https://github.com/MrRefactoring/polacode.git"
   },
-  "publisher": "pnp",
+  "publisher": "mrrefactoring",
   "keywords": [
     "polacode",
     "polaroid",
@@ -24,7 +24,7 @@
     "Other"
   ],
   "engines": {
-    "vscode": "^1.32.0"
+    "vscode": "^1.47.0"
   },
   "activationEvents": [
     "onCommand:polacode.activate",
