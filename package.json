@@ -1,11 +1,11 @@
 {
-  "name": "polacode",
-  "displayName": "Polacode",
-  "description": "📸  Polaroid for your code",
-  "version": "0.3.4",
+  "name": "polacode-fixed-edition",
+  "displayName": "Polacode (fixed edition)",
+  "description": "📸  Polaroid for your code (fixed for VSCode 1.47.0 and later)",
+  "version": "0.3.5",
   "repository": {
     "type": "git",
-    "url": "https://github.com/octref/polacode.git"
+    "url": "https://github.com/MrRefactoring/polacode.git"
   },
   "publisher": "pnp",
   "keywords": [
@@ -39,7 +39,7 @@
       }
     ],
     "configuration": {
-      "title": "Polacode",
+      "title": "Polacode (fixed edition)",
       "properties": {
         "polacode.shadow": {
           "type": "string",
@@ -74,7 +74,7 @@
     }
   },
   "devDependencies": {
-    "@types/node": "^11.12.0",
-    "@types/vscode": "^1.32.0"
+    "@types/node": "^14.0.23",
+    "@types/vscode": "^1.47.0"
   }
 }
