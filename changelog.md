@@ -1,5 +1,13 @@
 # Changelog
 
+### 0.3.6 | 2020-09-12
+
+- Fix Polacode not loading in VSCode 1.49.0 and later
+
+### 0.3.5 | 2020-07-21
+
+- Fix Polacode not loading in VSCode 1.47.0 and later
+
 ### 0.3.4 | 2019-09-27
 
 - Fix Polacode not loading background color correctly. [#125](https://github.com/octref/polacode/issues/125).
