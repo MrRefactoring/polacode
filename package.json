@@ -2,7 +2,7 @@
   "name": "polacode-fixed-edition",
   "displayName": "Polacode (fixed edition)",
   "description": "📸  Polaroid for your code (fixed for VSCode 1.47.0 and later)",
-  "version": "0.3.5",
+  "version": "0.3.6",
   "repository": {
     "type": "git",
     "url": "https://github.com/MrRefactoring/polacode.git"

@@ -123,7 +123,7 @@ function activate(context) {
     return vscode.window.onDidChangeTextEditorSelection(e => {
       if (e.selections[0] && !e.selections[0].isEmpty) {
         vscode.commands.executeCommand('editor.action.clipboardCopyWithSyntaxHighlightingAction')
-        panel.postMessage({
+        panel.webview.postMessage({
           type: 'update'
         })
       }
